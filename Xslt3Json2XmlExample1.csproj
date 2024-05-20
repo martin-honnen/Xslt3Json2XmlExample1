@@ -8,7 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="SaxonHE11s9apiExtensions" Version="11.6.1" />
+      <PackageReference Include="SaxonHE11s9apiExtensions" Version="11.6.9" />
     </ItemGroup>
 
 </Project>
